@@ -1,0 +1,20 @@
+.title-1{
+  color: blueviolet;
+  background-color: coral;
+  font-size: 20px;
+}
+.title-2{
+  color: rgb(87, 121, 109);
+  background-color: burlywood;
+  font-size: 15px;
+}
+.title-3{
+  color: rgb(129, 115, 141);
+  background-color: rgb(139, 43, 62);
+  font-size: 25px;
+}
+.title-4{
+  color: rgb(99, 67, 67);
+  background-color: rgb(212, 193, 168);
+  font-size: 30px;
+}
